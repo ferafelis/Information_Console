@@ -1,0 +1,26 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+**/Debug/
+**/Release/
+**/x64/
+**/x86/
+**/out/
+**/build/
+
+# Compiled files
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.pch
+*.idb
+*.ipch
+*.tlog
+*.lastbuildstate
+
+# Application data
+vacation.dat
